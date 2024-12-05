@@ -89,17 +89,13 @@ endmodule
 
 ![DE 1](https://github.com/user-attachments/assets/b7c77700-7f7f-4a79-a280-59be0cde78f9)
 
-
 **RTL realization Output:** 
 
-
 ![391397737-33057e68-93dd-4575-b23e-105679e5f172](https://github.com/user-attachments/assets/52a01148-2ad7-4e51-82eb-56f5c486f682)
-
 
 **RTL**
 
 ![391397772-123f7ffc-9f27-4bec-9706-2e7c2dbc06ef](https://github.com/user-attachments/assets/e451ad0d-1aa7-4d1c-92f5-0e8a40421d0d)
-
 
 **Result:**
 Studied and verified the truth table of logic gates in Quartus II using Verilog programming successfully
